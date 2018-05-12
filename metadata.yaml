@@ -1,0 +1,27 @@
+_repo: A-Glossary-of-Provincial-Words--amp--Phrases-in-use-in-Somersetshire_25212
+_version: 0.1.0
+alternative_title: Glossary of Provincial Words and Phrases in use in Somersetshire
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Wadham Pigott
+    birthdate: 1821
+    gutenberg_agent_id: '31145'
+    url: http://www.gutenberg.org/2009/agents/31145
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dialects -- England -- Somerset'
+- !lcc 'PE'
+- !lcsh 'English language -- Provincialisms -- England -- Somerset'
+title: A Glossary of Provincial Words & Phrases in use in Somersetshire
+url: http://www.gutenberg.org/ebooks/25212

@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31145'
     url: http://www.gutenberg.org/2009/agents/31145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25212#A-Glossary-of-Provincial-Words--amp--Phrases-in-use-in-Somersetshire
 gutenberg_issued: '2008-04-28'
 gutenberg_type: Text
 identifiers:
